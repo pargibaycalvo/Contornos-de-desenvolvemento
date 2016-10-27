@@ -11,4 +11,8 @@ package masteren;
  */
 public class masteren2 {
     
+    //clase de prueba
+    
+    
+    
 }
